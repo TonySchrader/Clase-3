@@ -1,5 +1,5 @@
 /*Schrader Rodtriguez Luis Antonio
-clase 2 ejercicio 7*/
+clase 3 ejercicio 7*/
 #include <stdio.h>
 
 void main()
